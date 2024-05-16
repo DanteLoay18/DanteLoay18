@@ -2,9 +2,7 @@
 
 ## Software Engineer 
 
-<!-- [nerdify_logo]: resources/logo.png -->
 
-   <img height="180em" src="resources/logo.png"/>
 
 - Worked as a Software Engineer at [Piatto}
 - _#MobileDev_ | iOS 🧡 &nbsp;| Flutter 💙 &nbsp; 
@@ -20,16 +18,10 @@
 
 ## Find me at 👇:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelduarte077/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/manuelduarte077)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-dante-loayza-avila-326516255/)
 
 ## Find my apps👇: 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/manuel-duarte/id1713428056)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6066797066423825901)
 
-- [NotedUp](https://app.notedup.donmanuel.dev/app)
-- [Wonder Noty App](https://app.noty.donmanuel.dev/link)
-- [NotyApp](https://play.google.com/store/apps/details?id=com.manuelduarte077.notyapp)
 
 ## 📚 Last Post
 
@@ -47,7 +39,7 @@ And more...
 ## My GitHub stats
 
 <p align="center">
-  <a href="https://github.com/manuelduarte077">
+  <a href="https://github.com/DanteLoay18">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanteLoay18&show_icons=true&theme=buefy&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanteLoay18&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
   </a>  
