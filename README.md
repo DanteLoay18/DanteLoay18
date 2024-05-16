@@ -2,10 +2,9 @@
 
 ## Software Engineer 
 
-
-
-- Worked as a Software Engineer at [Piatto}
-- _#MobileDev_ | iOS 🧡 &nbsp;| Flutter 💙 &nbsp; 
+- Worked as a Software Engineer
+- - _#FullStackDeveloper_ | Angular &nbsp;| .Net  &nbsp | Spring; 
+- _#MobileDev_ | iOS  &nbsp;| Flutter &nbsp; 
 - 📖 &nbsp; I'm currently learning [iOS](https://developer.apple.com/swift/)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
@@ -14,24 +13,24 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
 
 ## Find me at 👇:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-dante-loayza-avila-326516255/)
 
-## Find my apps👇: 
+<!--  ## Find my apps👇: -->
 
 
-## 📚 Last Post
+<!-- YT:START   -->
+<!-- ## 📚 Last Post
 
-<!-- YT:START -->
 
 - [Learn Go in 8 minutes ](https://www.donmanuel.dev/posts/learn-go-in-8-minutes)
 - [Diccionarios en Python](https://www.donmanuel.dev/posts/que-es-un-diccionario-de-datos)
 - [Tuplas en Python](https://dev.to/manuelduarte077/tuplas-en-python-tuple-5e52)
 - [¿Como hacer un Deploy a Firebase Hosting?](https://dev.to/manuelduarte077/como-hacer-un-deploy-a-firebase-hosting-1d1j)
-- [Instalación de Docker en Ubuntu](https://dev.to/manuelduarte077/instalacion-de-docker-en-ubuntu-4mhf)
+- [Instalación de Docker en Ubuntu](https://dev.to/manuelduarte077/instalacion-de-docker-en-ubuntu-4mhf)  -->
 <!-- YT:END -->
 
 And more...
