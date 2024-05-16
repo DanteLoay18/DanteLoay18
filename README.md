@@ -3,7 +3,7 @@
 ## Software Engineer 
 
 - Worked as a Software Engineer
-- _#FullStackDeveloper_ | Angular &nbsp;| .Net  &nbsp | Spring; 
+- _#FullStackDeveloper_ | Angular &nbsp;| .Net  &nbsp; | Spring; 
 - _#MobileDev_ | iOS  &nbsp;| Flutter &nbsp; 
 - 📖 &nbsp; I'm currently learning [iOS](https://developer.apple.com/swift/)
 - 👨🏻‍💻 I love to learn new things and ready to help others
