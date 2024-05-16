@@ -37,7 +37,7 @@
 - [Instalación de Docker en Ubuntu](https://dev.to/manuelduarte077/instalacion-de-docker-en-ubuntu-4mhf)  -->
 <!-- YT:END -->
 
-And more...
+<!-- And more... -->
 
 ## My GitHub stats
 
