@@ -48,7 +48,7 @@ And more...
 
 <p align="center">
   <a href="https://github.com/manuelduarte077">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=buefy&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanteLoay18&show_icons=true&theme=buefy&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanteLoay18&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
   </a>  
 </p>
