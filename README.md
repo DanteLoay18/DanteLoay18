@@ -5,7 +5,7 @@
 - Worked as a Software Engineer
 - _#FullStackDeveloper_ | Angular &nbsp;| .Net  &nbsp; | Spring; 
 - _#MobileDev_ | iOS  &nbsp;| Flutter &nbsp; 
-- 📖 &nbsp; I'm currently learning [iOS](https://developer.apple.com/swift/)
+- 📖 &nbsp; I'm currently learning more about AWS.
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
